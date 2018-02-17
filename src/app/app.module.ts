@@ -13,10 +13,10 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AngularFireModule.initializeApp({
-      apiKey: "AIzaSyCAgwI9lSNwjZsPCEvJuc6qVxiw-moYEmA",
-      authDomain: "fir-demo-1a77f.firebaseapp.com",
-      projectId: "fir-demo-1a77f",
-      storageBucket: "fir-demo-1a77f.appspot.com"
+      apiKey: "",
+      authDomain: "",
+      projectId: "",
+      storageBucket: ""
     }),
     AngularFireStorageModule
   ],
